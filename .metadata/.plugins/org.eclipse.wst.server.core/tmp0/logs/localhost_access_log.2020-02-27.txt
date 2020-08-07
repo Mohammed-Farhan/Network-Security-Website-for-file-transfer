@@ -1,0 +1,16 @@
+127.0.0.1 - - [27/Feb/2020:20:46:00 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:02 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:08 +0530] "GET /MajorProject/admin.jsp HTTP/1.1" 200 4225
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:16 +0530] "POST /MajorProject/Admin HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:17 +0530] "GET /MajorProject/ahome.jsp HTTP/1.1" 200 3917
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:27 +0530] "GET /MajorProject/aowner.jsp HTTP/1.1" 200 4712
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:32 +0530] "GET /MajorProject/auser.jsp HTTP/1.1" 200 4756
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:34 +0530] "GET /MajorProject/afiles.jsp HTTP/1.1" 200 4629
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:36 +0530] "GET /MajorProject/akey.jsp HTTP/1.1" 200 4824
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:38 +0530] "GET /MajorProject/attack.jsp HTTP/1.1" 200 4870
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:41 +0530] "GET /MajorProject/aowner.jsp HTTP/1.1" 200 4712
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:46:42 +0530] "GET /MajorProject/ahome.jsp HTTP/1.1" 200 3917
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:47:33 +0530] "GET /MajorProject/aowner.jsp HTTP/1.1" 200 4712
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:47:36 +0530] "GET /MajorProject/index.html HTTP/1.1" 200 5038
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:47:39 +0530] "GET /MajorProject/owner.jsp HTTP/1.1" 200 4901
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:20:47:52 +0530] "GET /MajorProject/user.jsp HTTP/1.1" 200 4899

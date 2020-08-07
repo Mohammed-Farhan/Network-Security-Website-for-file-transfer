@@ -1,0 +1,11 @@
+127.0.0.1 - - [24/Mar/2020:22:33:09 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:22:33:13 +0530] "GET /MajorProject/akey.jsp HTTP/1.1" 200 5030
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:22:33:13 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:22:33:16 +0530] "GET /MajorProject/ahome.jsp HTTP/1.1" 200 3886
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:22:33:17 +0530] "GET /MajorProject/aowner.jsp HTTP/1.1" 200 4831
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:22:33:20 +0530] "GET /MajorProject/auser.jsp HTTP/1.1" 200 4933
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:22:33:21 +0530] "GET /MajorProject/afiles.jsp HTTP/1.1" 200 6112
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:22:33:21 +0530] "GET /MajorProject/images/networkpick.jpg HTTP/1.1" 200 323433
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:22:33:22 +0530] "GET /MajorProject/akey.jsp HTTP/1.1" 200 5030
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:22:33:23 +0530] "GET /MajorProject/afiles.jsp HTTP/1.1" 200 6112
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:22:33:25 +0530] "GET /MajorProject/aowner.jsp HTTP/1.1" 200 4831

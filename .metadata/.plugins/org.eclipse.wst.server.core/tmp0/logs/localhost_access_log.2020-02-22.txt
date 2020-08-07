@@ -1,0 +1,8 @@
+127.0.0.1 - - [22/Feb/2020:11:59:47 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [22/Feb/2020:11:59:52 +0530] "GET /MajorProject/ HTTP/1.1" 200 5038
+0:0:0:0:0:0:0:1 - - [22/Feb/2020:11:59:52 +0530] "GET /MajorProject/default.css HTTP/1.1" 200 10683
+0:0:0:0:0:0:0:1 - - [22/Feb/2020:11:59:52 +0530] "GET /MajorProject/main.css HTTP/1.1" 200 38415
+0:0:0:0:0:0:0:1 - - [22/Feb/2020:11:59:52 +0530] "GET /MajorProject/fonts.css HTTP/1.1" 200 19845
+0:0:0:0:0:0:0:1 - - [22/Feb/2020:11:59:52 +0530] "GET /MajorProject/images/header-bg.jpg HTTP/1.1" 200 115719
+0:0:0:0:0:0:0:1 - - [22/Feb/2020:11:59:52 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [22/Feb/2020:12:00:14 +0530] "GET /MajorProject/admin.jsp HTTP/1.1" 200 4225
